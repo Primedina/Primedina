@@ -18,4 +18,8 @@ As próximas tecnologia que vou estudar serão:<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Primedina)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Conecte-se comigo :computer:
+<a href="https://www.linkedin.com/in/priscila-da-silva-oliveira-medina/"> <img src="https://github.com/Primedina/Primedina/assets/162362754/f448e2b8-3338-47e6-bf70-cd2d121bfb0f" width= "45"></a>
+
+
 
